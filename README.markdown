@@ -8,6 +8,6 @@
 
 ## To Use ##
 **Follow similar instructions for your path to the template and Ruby gem location:**
-+  ln -s /Users/mstanislav/github/Veewee-Definitions/CentOS-6_x86_64-PuppetStack /usr/lib/ruby/user-gems/1.8/gems/veewee-0.2.0/templates/
-+  vagrant basebox define 'CentOS6-x86_64-PuppetStack' 'CentOS-6_x86_64-PuppetStack'
-+  vagrant basebox build 'CentOS6-x86_64-PuppetStack'
+*   ln -s /Users/mstanislav/github/Veewee-Definitions/CentOS-6_x86_64-PuppetStack /usr/lib/ruby/user-gems/1.8/gems/veewee-0.2.0/templates/
+*   vagrant basebox define 'CentOS6-x86_64-PuppetStack' 'CentOS-6_x86_64-PuppetStack'
+*   vagrant basebox build 'CentOS6-x86_64-PuppetStack'
